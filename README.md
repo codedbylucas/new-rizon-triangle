@@ -1,7 +1,7 @@
 # New Rizon Rriangle
 
 Este é o código realizado no desafio de lógica para um processo seletivo no Bootcamp da New Rizon.
-O desafio consiste em fazer um programa que receba um número natural N e determine, por meio de uma rotina recursiva, qual é o N-ésimo número triangular. O programa também imprimi na tela, por meio de outra rotina recursiva, o triângulo equivalente a esse N-ésimo número triangular.
+O desafio consiste em fazer um programa que receba um número natural N e determina, por meio de uma rotina recursiva, qual é o N-ésimo número triangular. O programa também imprimi na tela, por meio de outra rotina recursiva, o triângulo equivalente a esse N-ésimo número triangular.
 
 <img src="./images/image.png" width="350">
 
